@@ -7,9 +7,9 @@ We will work with other scientists to fix common food problems for people in Mad
 <br>
 
 ## Motivation
-The recently coming of new technologies by which almost everybody is connected have not facilitated the widespread of scientific knowledge. Instead, the immediate and brief facet of the information we receive daily has made the propagation of pseudosciences more easy than ever. In addition, in the field of food and nutrition there are non-evidence-based statements spread everyday which in some cases may be harmful for people's health. 
+The recently arrival of new technologies by which almost everybody is connected have not facilitated the widespread of scientific knowledge. Instead, the immediate and brief facet of the information we receive daily has made the propagation of pseudosciences more easy than ever. In addition, in the field of food and nutrition there are non-evidence-based statements spread everyday which in some cases may be harmful for people's health. 
 
-In order to make Science closer to citizens, we aimed to create a platform where they can propose daily food/nutrition related problems to scientists and then those can elaborate a scientifical/technical solution to find the solutions.
+In order to make Science closer to citizens, we aimed to create a platform where they can propose daily food/nutrition related problems to scientists and then those can elaborate a scientifical/technical solution to both help the citizens in their daily lives and make them feel more connected to Science and scientists.
 <br>
 <br>
 
