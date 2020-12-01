@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Bienvenid@s a la Science Shop de Alimentación!
+
+Página inicial por completar
 
 You can use the [editor on GitHub](https://github.com/tlaguna/sci4allfood/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
