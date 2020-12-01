@@ -1,39 +1,30 @@
 ## Bienvenid@s a la Science Shop de Alimentación!
 
-Página inicial por completar
+Te damos la bienvenida al proyecto piloto para desarrollar una Science Shop de Alimentación.
 
-You can use the [editor on GitHub](https://github.com/tlaguna/sci4allfood/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Qué es una Science Shop?
+En español, "Science Shop" se traduciría como "tienda de Ciencia", pero esto no capta el verdadero 
+significado y funcionamiento de una Science Shop. 
+Se considera como una estructura, física o virtual, ocasional o permanente,
+que se encarga de recoger demandas de la sociedad de civil en temas de investigación y posteriormente,
+de contactar a un equipo investigador que intente responder a la necesidad de l@s cuidadan@s. Además, se encarga de 
+comunicar los resultados de la investigación a la sociedad y a divulgarlos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Por qué queremos crear una Science Shop?
+Creemos que la población española en general conoce poco sobre la Ciencia y l@s que trabajamos en ella.
+Creemos que hay poca conexión entre ambos grupos y pensamos que mediante la Science Shop 
+podemos crear víncluos con la sociedad civil al intentar solucionar sus problemas
+cotidianos relacionados con la alimentación. Además puede ayudar a crear una comunidad de científicos
+multidisciplinar que trabajen de manera abierta.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### QUIERES COLABORAR??
+Ahora mismo necesitamos recoger demandas de la sociedad civil relacionadas con la alimentación.
+¿Qué problema relacionado con los alimentos y la nutrición te afecta directamente y piensas
+que l@s científic@s podemos solucionar? Mándanos un email con tus ideas a foodscienceshop@gmail.com.
 
-```markdown
-Syntax highlighted code block
+Te gustaría colaborar en sacar adelante la inciativa en la organización o como investigador/a?
+Mándanos un email también a foodscienceshop@gmail.com.
 
-# Header 1
-## Header 2
-### Header 3
+## Os esperamos!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tlaguna/sci4allfood/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
