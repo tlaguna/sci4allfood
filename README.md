@@ -20,7 +20,9 @@ We hope that by engaging the public and providing them direct solution for their
 ### HOW TO COLLABORATE?
 As an starting initiative, we will begin only virtually for now through our website.
 
-Our website and mnication with the public will be in Spanish, but we invite everybody to collaborate with us in everything which do not involve direct contact with the public in English too.
+Our website and communication with the public will be in Spanish, but we invite everybody to collaborate with us in everything which do not involve direct contact with the public in English too.
+
+You can choose to add you as collaborator to this project or drop us an email to [foodscienceshop@gmail.com](foodscienceshop@gmail.com).
 
 ![Alt text](images/FoodSciShop_scheme.png)
 
