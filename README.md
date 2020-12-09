@@ -24,4 +24,4 @@ Our website and mnication with the public will be in Spanish, but we invite ever
 
 ![Alt text](images/FoodSciShop_scheme.png)
 
-You can check our Code of Conduct here!
+You can check our Code of Conduct [here](CODE_OF_CONDUCT.md)!
