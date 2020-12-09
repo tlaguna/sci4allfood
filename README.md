@@ -22,4 +22,6 @@ As an starting initiative, we will begin only virtually for now through our webs
 
 Our website and mnication with the public will be in Spanish, but we invite everybody to collaborate with us in everything which do not involve direct contact with the public in English too.
 
+![Alt text](tlaguna/sci4allfood/blob/main/images/FoodSciShop_scheme.png?raw=true)
 
+You can check our Code of Conduct here!
